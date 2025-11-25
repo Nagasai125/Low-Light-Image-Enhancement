@@ -34,5 +34,3 @@ The Varied Indoor Luminance & Nightscapes Collection (VILNC Dataset) is a meticu
 ## License
 
 This implementation is provided under the MIT License. See LICENSE file for details.
-
-# Contributors
