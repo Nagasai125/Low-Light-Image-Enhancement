@@ -1,6 +1,4 @@
-# ZERO-IG
 
-### Zero-Shot Illumination-Guided Joint Denoising and Adaptive Enhancement for Low-Light Images [cvpr2024]
 
 # Zero-IG Framework
 
@@ -22,15 +20,11 @@
 * Select the appropriate model for testing, which could be a model trained by yourself.
 * Execute "test.py" to perform the testing.
 
-## [VILNC Dataset](https://pan.baidu.com/s/1-Uw78IxlVAVY_hqRRS9BGg?pwd=4e5c )
 
-The Varied Indoor Luminance & Nightscapes Collection (VILNC Dataset) is a meticulously curated assembly of 500 real-world low-light images, captured with the precision of a Canon EOS 550D camera. This dataset is segmented into two main environments, comprising 460 indoor scenes and 40 outdoor landscapes. Within the indoor category, each scene is represented through a trio of images, each depicting a distinct level of dim luminance, alongside a corresponding reference image captured under normal lighting conditions. For the outdoor scenes, the dataset includes low-light photographs, each paired with its respective normal light reference image, providing a comprehensive resource for analyzing and enhancing low-light imaging techniques.
-
-<img src="Figs/Dataset.png" width="900px"/> 
-<p style="text-align:justify">
 
 
 
 ## License
 
 This implementation is provided under the MIT License. See LICENSE file for details.
+
